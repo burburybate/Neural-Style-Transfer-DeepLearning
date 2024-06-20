@@ -1,4 +1,6 @@
-
+Link to the video-
+https://drive.google.com/drive/u/0/folders/1vvfdfYZc-4XQwQ60d8azQH3smiF_IE0J
+Please note that there are two video as my code took a lot of time to run so i have only showed for iteration 0 in the video. and continued from the later part (visualisation).
 ### Project Overview
 
 This project implements Neural Style Transfer using TensorFlow and VGG19. Neural Style Transfer allows you to blend the style of one image with the content of another, creating artistic and visually appealing images.
