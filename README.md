@@ -14,7 +14,8 @@ This project implements Neural Style Transfer using TensorFlow and VGG19. Neural
 2. **Install dependencies:**
    Make sure you have Python and pip installed. Then, install the required libraries:
    ```bash
-   pip install tensorflow pillow numpy
+   pip install tensorflow
+   
    ```
 
 ### Usage
